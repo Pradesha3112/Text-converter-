@@ -1,68 +1,63 @@
 
-# 📝 Text Converter
+# Markdown Preview Pro
 
-A simple Python GUI application that allows users to convert text between **uppercase**, **lowercase**, **title case**, and more. Built using **Tkinter**, it provides an intuitive and user-friendly interface for quick and easy text manipulation.
+## 📝 About the App
+
+**Markdown Preview Pro** is a sleek and responsive web application that allows users to **write, edit, and instantly preview** Markdown content in real-time. It offers a distraction-free editor with live rendering, making it ideal for developers, writers, and students who work with Markdown regularly. The app simplifies your workflow by letting you preview formatted text side-by-side with raw Markdown, ensuring accuracy and ease of use.
+
+---
 
 ## 🚀 Features
 
-- ✅ Convert text to UPPERCASE
-- ✅ Convert text to lowercase
-- ✅ Convert text to Title Case
-- ✅ Clear the input/output fields
-- ✅ Copy the converted text
+- ✍️ **Real-time Preview** – Instantly see the formatted output as you type.
+- 📄 **Copy to Clipboard** – Easily copy the rendered Markdown or the raw Markdown code.
+- 📥 **Export as PDF** – Download your formatted Markdown as a PDF file.
+- 🖥️ **Responsive Design** – Works smoothly on both desktop and mobile devices.
+- 🌓 **Light/Dark Mode** – Switch between themes for a comfortable viewing experience.
 
-## 📸 Screenshot
-*(Add a screenshot of your app here if available)*
+---
 
-## 🛠️ Technologies Used
+## 🔧 Technologies Used
 
-- **Python**
-- **Tkinter** (for GUI)
+- **HTML5 & CSS3** – For clean structure and responsive design.
+- **JavaScript** – For real-time Markdown rendering and interactivity.
+- **Markdown Libraries** (e.g., `marked.js` or similar) – To parse and display Markdown.
+- **FileSaver.js / jsPDF (Optional)** – To support PDF export.
 
-## 💻 How to Run
+---
 
-1. Clone the repository:
+## 📂 How to Use
 
-   ```bash
-   git clone https://github.com/Pradesha3112/Text-converter-.git
-   ```
-
-2. Navigate to the project directory:
+1. **Clone the Repository:**
 
    ```bash
-   cd Text-converter-
+   git clone https://github.com/your-username/markdown-preview-pro.git
    ```
 
-3. Run the Python script:
+2. **Open the App:**
 
-   ```bash
-   python text_converter.py
-   ```
+   Simply open the `index.html` file in your browser. No server setup is required (client-side only).
 
-> Make sure Python is installed on your system.
+---
 
-## 📂 Folder Structure
+## ✅ Usage Instructions
 
-```
-Text-converter-/
-├── text_converter.py
-└── README.md
-```
+- Start typing your Markdown in the left editor pane.
+- View the live preview on the right.
+- Click **Copy** to copy your Markdown content.
+- Click **Download PDF** to save your work.
 
-## 🔄 Future Enhancements
-
-- Add more text transformation options (e.g., Reverse Text, Remove Extra Spaces)
-- Save converted text as a file
-- Add dark mode support
+---
 
 ## 🤝 Contributing
 
-Pull requests are welcome! If you find a bug or have suggestions for improvement, feel free to open an issue or submit a PR.
-
-## 📬 Contact
-
-Created by [Pradesha](https://github.com/Pradesha3112) – feel free to connect!
+Contributions are welcome! Feel free to open an issue or submit a pull request if you'd like to enhance the app.
 
 ---
-![Screenshot (68)](https://github.com/user-attachments/assets/b3e4fd1c-2b99-4a46-8292-9e1463d647c4)
-![Screenshot (67)](https://github.com/user-attachments/assets/a2b5b4ad-5cb6-4895-ab55-73554be38bab)
+
+## 📜 License
+
+This project is licensed under the [MIT License](LICENSE).
+![Screenshot (79)](https://github.com/user-attachments/assets/bc4b2e84-d007-4e83-9cc0-d1412a49338a)
+
+---
